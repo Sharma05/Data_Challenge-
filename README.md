@@ -13,7 +13,7 @@ well, or tightly
 
 Data Challenege: Priya_Sharma_Revolving_Door_2.ipynb
 
-10 subsidiaries 
+10 subsidiaries
 Uncontrollable employee turnover 
 Replacing one employee will cost > 100K USD
 Diagnose: why and when?
